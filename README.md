@@ -1,5 +1,5 @@
 # GraphGP
-An implementation for "Graph-Structured Gaussian Processes for Transferable Graph Learning" (NeurIPS'23).
+An implementation for "Graph-Structured Gaussian Processes for Transferable Graph Learning" (NeurIPS'23). The code will be given later.
 
 ## Acknowledgement
 This is the latest source code of **GraphGP** in NeurIPS'23. If you find that it is helpful for your research, please consider to cite our paper:
