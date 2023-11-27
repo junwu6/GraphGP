@@ -23,3 +23,6 @@ This is the latest source code of **GraphGP** in NeurIPS'23. If you find that it
   year={2023},
 }
 ```
+
+## Reference
+This project is built based on [GPyTorch](https://github.com/cornellius-gp/gpytorch) and [PyG](https://github.com/pyg-team/pytorch_geometric).
