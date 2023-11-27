@@ -1,5 +1,5 @@
 # GraphGP
-An implementation for "Graph-Structured Gaussian Processes for Transferable Graph Learning" (NeurIPS'23).
+An implementation for "[Graph-Structured Gaussian Processes for Transferable Graph Learning](https://openreview.net/pdf?id=eZbqD9BoXe)" (NeurIPS'23).
 
 ## Environment Requirements
 The code has been tested under Python 3.10. The required packages are as follows:
