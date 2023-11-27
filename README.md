@@ -9,6 +9,9 @@ The code has been tested under Python 3.10. The required packages are as follows
 * torch_geometric>=2.3.0
 * setuptools>=57.0.0
 
+## Data Sets
+The raw Twitch data sets (associated with the number of views) can be found at [MUSAE](https://github.com/benedekrozemberczki/MUSAE).
+
 ## Acknowledgement
 This is the latest source code of **GraphGP** in NeurIPS'23. If you find that it is helpful for your research, please consider to cite our paper:
 
