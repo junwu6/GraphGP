@@ -1,5 +1,13 @@
 # GraphGP
-An implementation for "Graph-Structured Gaussian Processes for Transferable Graph Learning" (NeurIPS'23). The code will be given later.
+An implementation for "Graph-Structured Gaussian Processes for Transferable Graph Learning" (NeurIPS'23).
+
+## Environment Requirements
+The code has been tested under Python 3.10. The required packages are as follows:
+* torch>=1.13.0+cu117
+* numpy>=1.24.3
+* gpytorch>=1.10
+* torch_geometric>=2.3.0
+* setuptools>=57.0.0
 
 ## Acknowledgement
 This is the latest source code of **GraphGP** in NeurIPS'23. If you find that it is helpful for your research, please consider to cite our paper:
